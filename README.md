@@ -49,6 +49,6 @@ This project is open-source and available for personal and educational use. Plea
 
 ## Author
 
-[Your Name]
+Carl Krogmann
 
 Built with passion and dedication for custom electronics and automation.
