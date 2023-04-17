@@ -45,7 +45,9 @@ Change the character '7' to the desired key event. Then, upload the modified ske
 
 ## License
 
-This project is open-source and available for personal and educational use. Please provide attribution if you use or modify this project for your own purposes.
+MIT License
+
+Copyright (c) 2020 Carl Krogmann
 
 ## Author
 
